@@ -1,0 +1,155 @@
+{
+  "profile_pic": "",
+  "listings": {
+    "videos": [
+      {
+        "title": "UI/UX",
+        "number_of_elements": 10
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 6
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 20
+      },
+      {
+        "title": "Product Marketing",
+        "number_of_elements": 8
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 5
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 7
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 7
+      }
+    ],
+    "blogs": [
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 10
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 6
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 20
+      },
+      {
+        "title": "Product Marketing",
+        "number_of_elements": 8
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 5
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 7
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 7
+      }
+    ],
+    "webinars": [
+      {
+        "title": "Product Management",
+        "number_of_elements": 10
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 6
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 20
+      },
+      {
+        "title": "Product Marketing",
+        "number_of_elements": 8
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 5
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 7
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 7
+      }
+    ],
+    "vlogs": [
+      {
+        "title": "Product Marketing",
+        "number_of_elements": 10
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 6
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 20
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 8
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 5
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 7
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 7
+      }
+    ],
+    "randoms": [
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 10
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 6
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 20
+      },
+      {
+        "title": "Product Marketing",
+        "number_of_elements": 8
+      },
+      {
+        "title": "UI/UX",
+        "number_of_elements": 5
+      },
+      {
+        "title": "Full Stack development",
+        "number_of_elements": 7
+      },
+      {
+        "title": "Product Management",
+        "number_of_elements": 7
+      }
+    ]
+  }
+}
